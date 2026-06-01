@@ -1,0 +1,7 @@
+@echo off
+set "npm_config_cache=C:\Users\kallw\OneDrive\Documents\New project\.npm-cache"
+set "XDG_DATA_HOME=C:\Users\kallw\OneDrive\Documents\New project\.vercel-xdg"
+set "XDG_CONFIG_HOME=C:\Users\kallw\OneDrive\Documents\New project\.vercel-config"
+set "LOCALAPPDATA=C:\Users\kallw\OneDrive\Documents\New project\.vercel-local"
+set "APPDATA=C:\Users\kallw\OneDrive\Documents\New project\.vercel-roaming"
+"C:\Program Files\nodejs\npx.cmd" --yes vercel@latest login
