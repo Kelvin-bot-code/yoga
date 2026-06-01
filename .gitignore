@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.tmp/
+.npm-cache/
+.vercel/
+.vercel-local/
+.vercel-xdg/
+*.log
